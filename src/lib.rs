@@ -4,5 +4,6 @@ mod window;
 
 pub use window::{EguiWindow, Queue};
 
+pub use baseview;
 pub use egui;
 pub use renderer::GraphicsConfig;
